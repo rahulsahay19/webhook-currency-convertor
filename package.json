@@ -11,6 +11,9 @@
     ],
     "author": "rahul sahay",
     "license": "ISC",
+    "engines": {
+        "node": "9.8.0"
+    },
     "dependencies": {
         "request": "2.87.0",
         "restify": "7.2.1"
