@@ -1,0 +1,18 @@
+{
+    "name": "moneybotwebhook",
+    "version": "1.0.0",
+    "description": "Currency convertor web hook",
+    "scripts": {
+        "start": "node webhook.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "currency-convertor"
+    ],
+    "author": "rahul sahay",
+    "license": "ISC",
+    "dependencies": {
+        "request": "2.87.0",
+        "restify": "7.2.1"
+    }
+}
